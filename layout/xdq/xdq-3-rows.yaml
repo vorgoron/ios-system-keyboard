@@ -90,7 +90,7 @@ iOS:
 longpress: !include xdq-longpress.yaml
 
 keyNames:
-  space: Бацӏмус
+  space: Цӏябиҡ
   return: Бате
   return-alts:
     search: Баркка
